@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Dive into the exhilarating world of gambling, where every bet is an adventure. Win big, play smart, and let the games begin!",
+        "title": "Roll The Dice of Your Dreams!"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the exhilarating world of gambling, where every bet is an adventure. Win big, play smart, and let the games begin!",
+        "title": "Roll The Dice of Your Dreams!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into the exhilarating world of gambling, where every bet is an adventure. Win big, play smart, and let the games begin!",
+        "title": "Roll The Dice of Your Dreams!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into the exhilarating world of gambling, where every bet is an adventure. Win big, play smart, and let the games begin!",
+        "title": "Roll The Dice of Your Dreams!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the exhilarating world of gambling, where every bet is an adventure. Win big, play smart, and let the games begin!",
+        "title": "Roll The Dice of Your Dreams!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into the exhilarating world of gambling, where every bet is an adventure. Win big, play smart, and let the games begin!",
+        "title": "Roll The Dice of Your Dreams!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into the exhilarating world of gambling, where every bet is an adventure. Win big, play smart, and let the games begin!",
+        "title": "Roll The Dice of Your Dreams!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into the exhilarating world of gambling, where every bet is an adventure. Win big, play smart, and let the games begin!",
+        "title": "Roll The Dice of Your Dreams!"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Roll The Dice of Your Dreams!",
+  "subtitle": "Dive into the exhilarating world of gambling, where every bet is an adventure. Win big, play smart, and let the games begin!"
+}
